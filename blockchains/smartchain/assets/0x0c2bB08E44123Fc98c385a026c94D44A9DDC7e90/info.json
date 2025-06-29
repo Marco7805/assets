@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD Clone",
+  "symbol": "USDT",
+  "decimals": 6,
+  "website": "https://github.com/Marco7805/usdt-clone-assets",
+  "explorer": "https://bscscan.com/token/0x0c2bB08E44123Fc98c385a026c94D44A9DDC7e90",
+  "social": {
+    "blog": "https://github.com/Marco7805/usdt-clone-assets"
+  },
+  "coingeckoId": "tether"
+}
