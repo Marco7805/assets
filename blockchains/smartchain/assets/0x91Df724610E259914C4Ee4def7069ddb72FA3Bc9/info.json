@@ -1,0 +1,24 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 18,
+    "website": "https://flow-stable-finance.lovable.app",
+    "description": "Flow Stable Finance simplifies the use of stablecoins on Flow: acquire USDF, stgUSDC, and USDC.e via exchanges or bridges (Layerzero, Stargate, Celer), swap FLOW and stablecoins on DEXs like KittySwap, deposit into DeFi pools (up to 60% APR), and use Flow/MetaMask wallets for secure operations.",
+    "explorer": "https://bscscan.com/token/0x91Df724610E259914C4Ee4def7069ddb72FA3Bc9",
+    "type": "BEP20",
+    "status": "active",
+    "id": "0x91Df724610E259914C4Ee4def7069ddb72FA3Bc9",
+    "links": [
+        {
+            "name": "X",
+            "url": "https://x.com/usdtflow?s=21&t=e6slUj3Zbw6_fRwd8cS6lw"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/usdt_flow"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+}
