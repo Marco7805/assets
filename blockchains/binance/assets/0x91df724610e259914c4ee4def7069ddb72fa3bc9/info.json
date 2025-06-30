@@ -2,5 +2,17 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "type": "BEP20",
-  "decimals": 18
+  "decimals": 18,
+  "description": "MyToken è il token utility ufficiale di USDT_Flow, usato per accedere a servizi e funzionalità esclusive sulla nostra piattaforma.",
+  "website": "https://flow-stable-finance.lovable.app",
+  "explorer": "https://bscscan.com/token/0x91Df724610E259914C4Ee4def7069ddb72FA3Bc9",
+  "status": "active",
+  "id": "0x91Df724610E259914C4Ee4def7069ddb72FA3Bc9",
+  "tags": ["utility"],
+  "links": [
+    { "name": "x",   "url": "https://x.com/usdtflow?s=21&t=e6slUj3Zbw6_fRwd8cS6lw" },
+    { "name": "telegram",  "url": "https://t.me/usdt_flow" },
+    { "name": "github",    "url": "https://github.com/Marco7805" },
+    { "name": "whitepaper","url": "https://flow-stable-finance.lovable.app/whitepaper.pdf" }
+  ]
 }
